@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27f9bb3b.css",
+    "main.js": "/static/js/main.cb68e579.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/city4.jpg": "/static/media/city4.0012a66511ff8a008fce.jpg",
+    "static/media/me.png": "/static/media/me.75378f156da9e56a1775.png",
+    "static/media/responsive.png": "/static/media/responsive.ec2b147537e29cde78c4.png",
+    "static/media/bitacora.png": "/static/media/bitacora.c1bbbdf3f7c2badf887e.png",
+    "static/media/weather.png": "/static/media/weather.34867c1e6c44c305d3f0.png",
+    "static/media/CV.pdf": "/static/media/CV.bf6fe062c58d40c847dc.pdf",
+    "static/media/about_me2.png": "/static/media/about_me2.ca0088283351b4d9c3c1.png",
+    "static/media/about_me.png": "/static/media/about_me.d8c4efd3b9c3711d051c.png",
+    "static/media/projects2.png": "/static/media/projects2.7d374506aa3f7ee5632e.png",
+    "static/media/kanban.png": "/static/media/kanban.c6e9c23a5838854b5319.png",
+    "static/media/projects.png": "/static/media/projects.93b869c2c31bd7f7afee.png",
+    "static/media/contact2.png": "/static/media/contact2.7db4d99e52799099e7bd.png",
+    "static/media/contact.png": "/static/media/contact.758f5215af3d16063ea9.png",
+    "static/media/email.png": "/static/media/email.b01e964eb84291935ced.png",
+    "static/media/github.png": "/static/media/github.16152e11abecacd60cb6.png",
+    "index.html": "/index.html",
+    "main.27f9bb3b.css.map": "/static/css/main.27f9bb3b.css.map",
+    "main.cb68e579.js.map": "/static/js/main.cb68e579.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f9bb3b.css",
+    "static/js/main.cb68e579.js"
+  ]
+}

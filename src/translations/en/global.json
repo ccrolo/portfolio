@@ -1,0 +1,8 @@
+{
+    "aboutMe": {
+        "aboutMe1": " Hi, I'm Cristina and I'm a Fullstack Web Developer. I specialize in JS and React.js but I'm in continuous development and learning to keep improving as a professional.",
+        "aboutMe2": " At the beginning of 2022 I decided to turn my professional career around, and doing a Web Development Bootcamp was, without a doubt, the best decision I could make. It was hard but I was able to finish it successfully, making a final project that I am proud of. In it I used technologies such as React.js for the frontend and Node.js, Express.js for the backend, with MongoDb as DB system.",
+        "aboutMe3": "I have several years of experience as a product photographer and digital editing that have helped me to master concepts of color and composition that I apply in web design. For this I use CSS and libraries like Bootstrap or MUI.",
+        "aboutMe4": "I have done several projects that you can find in this web portfolio that will be continuously updated."
+    }
+}

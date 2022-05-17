@@ -1,0 +1,89 @@
+.container{
+    background-image: url('../../assets/city4.jpg');
+    background-size:cover;
+    background-attachment: fixed; 
+    max-width: 100%;
+    min-height: 100vh;
+    margin: 0px;
+}
+
+.title__container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 6rem;
+    
+}
+
+.card{
+    display: flex;
+    color: rgb(246, 244, 244);
+    text-shadow:2px -1px 10px #FFFFFF;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(22, 22, 22,0.8);
+    border: none;
+    font-size: 3.5rem;
+    align-items: center; 
+    font-family: 'Koulen', cursive;
+    font-family: 'Roboto', sans-serif;  
+    padding-top: 5rem;  
+
+}
+
+.card_links{
+    height: 100vh;
+}
+.secondary_text{
+    font-size: 2.5rem;
+       
+}
+
+.images_bg{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.images{
+    width: 320px;
+}
+
+.images:hover{
+    transform: scale(1.2);
+    cursor:pointer;
+}
+
+.icons{
+    width: 80px;
+    margin: 1rem;
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+
+.cv{
+    text-decoration: none;
+    color:  #FFFFFF;
+    font-size: 1.5rem;
+    background-color:rgb(246, 244, 244, 0.2);
+    margin-top: 8rem;
+    border-radius: 50px;
+    border: #FFFFFF solid 3.5px;
+    box-shadow: -1px -1px 10px #FFFFFF;
+}
+
+
+.cv:hover{
+    color:  #f4f01e;
+    border:  #f4f01e solid 3.5px;
+    transform: scale(1.2);
+    cursor:pointer;
+    background-color: rgba(215, 246, 18, 0.2);
+    box-shadow: -1px -1px 10px rgba(215, 246, 18);
+}
+
+.icons:hover{
+    transform: scale(1.2);
+    cursor:pointer;
+}

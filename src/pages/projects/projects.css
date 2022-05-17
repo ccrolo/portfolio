@@ -1,0 +1,17 @@
+.links_project{
+    margin: 1rem;
+    padding: 0.6rem;
+    border: 1px solid white;
+    border-radius: 50px;
+    box-shadow: -1px -1px 10px #FFFFFF;
+    background-color: rgb(255, 255, 255, 0.1);
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 5rem;
+}
+
+.links_project:hover{
+    color: white;
+    transform: scale(1.2);
+}
